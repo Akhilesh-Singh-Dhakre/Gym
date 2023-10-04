@@ -1,0 +1,86 @@
+.fontchange {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.minhs {
+    min-height: 100vh;
+}
+
+.bgr {
+    background-color: red;
+}
+
+.mxauto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.itemcenter {
+    align-items: center;
+}
+
+.justifybetween {
+    justify-content: space-between;
+}
+
+.justifycenter {
+    justify-content: center;
+}
+
+.flexcol {
+    flex-direction: column;
+}
+
+.navbar {
+    display: flex;
+    height: 68px;
+}
+
+.navbar li {
+    list-style: none;
+    margin: 0 12px;
+}
+
+.fontbold {
+    font-weight: 900;
+}
+
+.my1 {
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.my2 {
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+
+.px2 {
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.textblue {
+    color: #9d715d;
+}
+
+.btn {
+    padding: 7px 12px;
+    border: 2px solid white;
+    border-radius: 6px;
+    color: white;
+    background-color: #9d715d;
+    cursor: pointer;
+}
+
+.overflowxhidden {
+    overflow-x: hidden;
+}
+
+.txtcenter {
+    text-align: center;
+}
